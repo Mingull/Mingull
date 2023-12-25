@@ -4,11 +4,12 @@
 
 I'm learning to become a front-end and back-end developer
 
--   🌍  I'm based in the Netherlands
--   🚀  I'm currently working on [Mingull CLI](http://github.com/Mingull/mingull-cli)
--   🧠  I'm learning Github Actions, CI workflows
--   ⚡  I have a dog named Djooly
-<div style="display:flex;gap:1rem">
+-   🌍 I'm based in the Netherlands
+-   🚀 I'm currently working on [Mingull CLI](http://github.com/Mingull/mingull-cli)
+-   🧠 I'm learning Github Actions, CI workflows
+-   ⚡ I have a dog named Djooly
+
+<div style="display:flex;flex-direction:column">
     <a href="https://www.github.com/Mingull" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/github/followers/Mingull?logo=github&style=for-the-badge&color=3382ed&labelColor=27272a" />
     </a>
@@ -126,6 +127,7 @@ I'm learning to become a front-end and back-end developer
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mingull&repo=mingull-cli&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en" />
     </a>
 </div>
+
 
 
 
